@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
