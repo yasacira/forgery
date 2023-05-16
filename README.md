@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+Reverse IoU threshold for NMS docs descriptions (#9151)
