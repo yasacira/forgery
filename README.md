@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Add estimate_speed(region_color) parameter (#8285)
