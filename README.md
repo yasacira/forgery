@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Elaborate Train and Predict mode docs arguments (#8137)
