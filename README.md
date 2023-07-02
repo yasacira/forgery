@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
