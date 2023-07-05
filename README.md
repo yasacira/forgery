@@ -1,1 +1,1 @@
-Fix tfjs exports for ARM64 Dockerfile (#8766)
+Add docs guide terminal images (#8819)
