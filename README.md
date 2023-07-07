@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Auto-format by https://ultralytics.com/actions
