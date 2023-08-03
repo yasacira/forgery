@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
