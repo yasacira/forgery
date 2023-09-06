@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Remove unused variables (#8511)
