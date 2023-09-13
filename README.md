@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Explorer with LanceDB, Actions and Docs updates (#7487)
