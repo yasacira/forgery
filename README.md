@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+docs: update view-results-in-terminal.md (#66)
