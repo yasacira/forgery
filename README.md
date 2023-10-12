@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+ultralytics 8.0.228 add training time argument (#7054)
