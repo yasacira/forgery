@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Bounding Box to OBB conversion (#7572)
