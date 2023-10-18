@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)
