@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Update Discord and Contributing Guide URLs (#9270)
