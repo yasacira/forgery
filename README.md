@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
