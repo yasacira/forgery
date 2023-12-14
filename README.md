@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Feature: Create HUB Models from CLI or Python Script (#7316)
