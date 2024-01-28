@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Add HUB-SDK docs (#7775)
