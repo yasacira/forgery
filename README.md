@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Avoid creating -hub dir without processing images (#8334)
