@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
