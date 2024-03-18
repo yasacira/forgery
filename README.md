@@ -1,1 +1,1 @@
-update README
+Expand Model method type hinting (#8279)
