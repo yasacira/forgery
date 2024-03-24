@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Model typehints Docker fix (#8306)
