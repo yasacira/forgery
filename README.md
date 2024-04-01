@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Update Colab notebook for YOLOv8.1 (#8660)
