@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Add horizontal Mosaic3 augmentation (#6898)
