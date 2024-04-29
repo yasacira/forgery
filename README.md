@@ -1,1 +1,1 @@
-Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
