@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Fix xyxyxyxyn calculation, swap axis (#8249)
