@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
