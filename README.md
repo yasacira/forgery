@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Segment TensorRT batch=3 fix (#7952)
