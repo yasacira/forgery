@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
