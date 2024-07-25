@@ -1,1 +1,1 @@
-Add TFLite Edge TPU Docs Integrations Page  (#8900)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
