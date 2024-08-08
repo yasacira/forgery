@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Updated SQL Query Plot Code (#8120)
