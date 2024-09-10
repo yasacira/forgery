@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Add estimate_speed(region_color) parameter (#8285)
