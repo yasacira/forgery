@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
