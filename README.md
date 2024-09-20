@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Model typehints Docker fix (#8306)
