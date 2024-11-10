@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Update pyproject.toml and Docs (#7274)
