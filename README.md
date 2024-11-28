@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Update pyproject.toml and Docs (#7274)
