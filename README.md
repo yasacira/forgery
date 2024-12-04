@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
